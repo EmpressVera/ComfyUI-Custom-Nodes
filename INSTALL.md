@@ -44,12 +44,3 @@ Updates replace changed release files and remove files retired by the release.
 They preserve unrelated files and stop before overwriting an edit that conflicts
 with the release. Restart ComfyUI and refresh its interface once the update
 finishes. To remove a whole node package, move its folder out of `custom_nodes`.
-
-### If you used the original installer
-
-The original installer did not record the version of each file it copied.
-Run the new installer from a download containing the same node files as your
-installed copy to record them in place. Then pull the newer release and use
-`--update`. If you no longer have the matching version, move the folder the
-installer names outside `custom_nodes` as a backup and install the current
-version once.
