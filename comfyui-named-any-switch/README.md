@@ -14,9 +14,12 @@ connected to another active output can still execute independently.
 
 ## Installation
 
-1. Place the `comfyui-named-any-switch` folder inside `ComfyUI/custom_nodes/`.
-2. Restart ComfyUI and refresh its browser page.
-3. Search for **Named Any Switch** under `utilities/switch`.
+1. Clone this folder into `your_path/ComfyUI/custom_nodes`.
+```sh
+git clone https://github.com/EmpressVera/ComfyUI-Custom-Nodes/edit/main/comfyui-named-any-switch named-any-switch
+```
+2. Restart ComfyUI.
+3. Under `utilities/switch` you will find `Named Any Switch`.
 
 No additional dependencies. Requires a recent ComfyUI with the V3 node API and
 `io.Autogrow` support; tested against ComfyUI 0.39.0.
