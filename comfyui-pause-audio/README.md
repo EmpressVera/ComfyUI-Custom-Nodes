@@ -35,8 +35,13 @@ node when relying on it to prevent saving.
 
 ## Installation
 
-Place `comfyui-pause-audio` in `ComfyUI/custom_nodes/`, restart ComfyUI, and refresh
-the browser. Search **Pause Audio** in the `audio` category.
+1. Clone this folder into `your_path/ComfyUI/custom_nodes`
+```sh
+git clone https://github.com/EmpressVera/ComfyUI-Custom-Nodes/edit/main/comfyui-pause-audio pause-audio
+```
+2. Restart ComfyUI.
+3. Under `audio`, you will find: `Pause Audio`.
+
 No additional packages are needed. Uses ComfyUI's built-in audio preview helper,
 lazy inputs, and execution blocker. Tested with ComfyUI 0.39.0/frontend 1.53.10.
 
