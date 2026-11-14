@@ -1,0 +1,47 @@
+Repository License and Third-Party Notices
+
+Permission to use the code
+
+For any code in this repository that the maintainer has the right to license,
+the maintainer grants everyone permission to use, copy, modify, publish,
+distribute, sublicense, and sell that code, with or without changes, for any
+purpose, including commercial use. This worldwide, royalty-free grant is
+irrevocable for recipients who comply with the attribution condition below.
+
+Attribution when redistributing
+
+If you redistribute copies or substantial portions of the covered code,
+including modified versions, include the following credit and URL in a README,
+license file, or other documentation that accompanies your distribution:
+
+Based on EmpressVera's ComfyUI custom nodes.
+https://github.com/EmpressVera/comfyui-custom-node
+
+Private use and modification require no attribution.
+
+This grant applies to any copyright the maintainer holds in the covered code.
+It does not assert copyright in AI-generated material.
+For purely AI-generated material outside this grant, the same credit is
+appreciated when redistributing it.
+
+Third-party code
+
+Third-party code remains subject to its own license terms. Pause Audio includes
+code adapted from ComfyUI-Pixaroma under the MIT License. The Pause Audio
+folder's LICENSE contains Pixaroma's copyright notice and the full MIT license.
+Keep those notices with any redistribution that includes the adapted code or
+substantial portions of it.
+
+Upstream project: https://github.com/pixaroma/ComfyUI-Pixaroma
+
+Names and trademarks
+
+Names and logos identify their respective projects and owners. This notice
+grants no trademark rights. References to ComfyUI, Pixaroma, and other third
+parties are for identification and do not imply affiliation or endorsement.
+
+Warranty and liability
+
+The covered code is provided as is. To the extent permitted by law, the
+maintainer disclaims all warranties, express or implied, and liability for
+claims or damages arising from use of the covered code.
