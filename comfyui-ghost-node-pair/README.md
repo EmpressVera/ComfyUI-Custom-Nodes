@@ -13,6 +13,11 @@ Socket labels follow the upstream source and first downstream destination. Any S
 
 ## Installation
 
-Place this entire folder in `ComfyUI/custom_nodes`, restart ComfyUI, then refresh the browser with Ctrl+F5. No additional dependencies are required.
+1. Clone this folder into your_path/ComfyUI/custom_nodes:
+   ```sh
+   https://github.com/EmpressVera/ComfyUI-Custom-Nodes/tree/main/comfyui-ghost-node-pair
+   ```
+2. Restart ComfyUI.
+3. Under Ghost Nodes, you should find: Ghost Node Pair, Ghost Node Sender, Ghost Node Receiver, and GhostNodeController.
 
 Tested with ComfyUI 0.39.0 and frontend 1.53.10, in both Classic and Nodes 2.0. Verification covers 73 checks, including real media execution, nested/shared subgraphs, exposed toggles, placement cancellation, disconnected branches, and saved sizes.
