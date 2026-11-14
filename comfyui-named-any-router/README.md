@@ -35,12 +35,12 @@ save/reload and disconnection of other inputs or outputs.
 
 ## Installation
 
-1. Clone the comfyui-named-any-router repository into your_path/ComfyUI/custom_nodes
+1. Clone the `comfyui-named-any-router` folder into `your_path/ComfyUI/custom_nodes`
 ```sh
 git clone https://github.com/EmpressVera/ComfyUI-Custom-Nodes/tree/main/comfyui-named-any-router named-any-router
 ```
 2. Restart ComfyUI.
-3. Look for the Named Any Router node under utilities/switch/Named Any Router
+3. Look for the Named Any Router node under `utilities/switch`.
 
 ## API
 
