@@ -13,7 +13,7 @@ Socket labels follow the upstream source and first downstream destination. Any S
 
 ## Installation
 
-1. Clone this folder into your_path/ComfyUI/custom_nodes:
+1. Clone this folder into `your_path/ComfyUI/custom_nodes`:
    ```sh
    https://github.com/EmpressVera/ComfyUI-Custom-Nodes/tree/main/comfyui-ghost-node-pair
    ```
