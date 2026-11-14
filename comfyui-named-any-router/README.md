@@ -35,10 +35,12 @@ save/reload and disconnection of other inputs or outputs.
 
 ## Installation
 
-Place `comfyui-named-any-router` in `ComfyUI/custom_nodes/`, restart ComfyUI, and
-refresh the browser. Search **Named Any Router** under `utilities/switch`.
-No additional packages are needed. Uses ComfyUI's native input autogrow and
-execution blocking; the frontend reveals output ports as needed.
+1. Clone the comfyui-named-any-router repository into your_path/ComfyUI/custom_nodes
+```sh
+git clone https://github.com/EmpressVera/ComfyUI-Custom-Nodes/tree/main/comfyui-named-any-router named-any-router
+```
+2. Restart ComfyUI.
+3. Look for the Named Any Router node under utilities/switch/Named Any Router
 
 ## API
 
