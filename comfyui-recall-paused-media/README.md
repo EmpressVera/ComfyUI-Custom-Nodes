@@ -1,6 +1,6 @@
 # Recall Paused Media
 
-A separate ComfyUI node under **Recall Paused Media**. Existing pause and switch nodes are unchanged.
+# Usage
 
 Connect a Pixaroma Pause Image, Pixaroma Pause Text, or Pause Audio output to `source`. Connect `media` to your switch or downstream workflow.
 
@@ -17,4 +17,11 @@ Text uses the current edited box, including blank text. Images use Pixaroma's di
 
 Recall buttons queue through ComfyUI's API without generation widget callbacks, so upstream seeds are not changed. Other inputs genuinely required by the downstream workflow still execute normally.
 
-Install this folder in `ComfyUI/custom_nodes`, restart ComfyUI, and refresh the browser. No additional dependencies are required.
+# Installation
+
+1. Clone this folder into `your_path/ComfyUI/custom_nodes`.
+```sh
+git clone https://github.com/EmpressVera/ComfyUI-Custom-Nodes/edit/main/comfyui-recall-paused-media recall-paused-media
+```
+2. Restart ComfyUI.
+3. Under `Recall Paused Media`, you will find the Recall Paused Media node.
