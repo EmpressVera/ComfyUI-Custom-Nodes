@@ -15,7 +15,7 @@ Socket labels follow the upstream source and first downstream destination. Any S
 
 1. Clone this folder into `your_path/ComfyUI/custom_nodes`:
    ```sh
-   https://github.com/EmpressVera/ComfyUI-Custom-Nodes/tree/main/comfyui-ghost-node-pair
+   git clone https://github.com/EmpressVera/ComfyUI-Custom-Nodes/tree/main/comfyui-ghost-node-pair ghost-node-pair
    ```
 2. Restart ComfyUI.
 3. Under Ghost Nodes, you should find: Ghost Node Pair, Ghost Node Sender, Ghost Node Receiver, and GhostNodeController.
