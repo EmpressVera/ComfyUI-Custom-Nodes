@@ -9,7 +9,7 @@ I am not a professional software engineer. I just learned github. Things will be
 
 My X profiles are linked under my git profile, and from there you can find my discord, so if you have any issues or just want to join, you can hit me up there.
 
-# Current Node
+# Current Nodes
 <img width="3001" height="1568" alt="ReleaseNodes" src="https://github.com/user-attachments/assets/4d743050-366d-49ba-8d47-a41e5db8d162" />
 
 Ghost Nodes:
